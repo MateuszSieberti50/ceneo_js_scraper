@@ -1,0 +1,11 @@
+
+{
+  "name":"ceneo-scraper-improved",
+  "version":"1.0.0",
+  "main":"index.js",
+  "scripts":{"start":"node index.js"},
+  "dependencies":{
+    "axios":"^1.7.2",
+    "cheerio":"^1.0.0"
+  }
+}
